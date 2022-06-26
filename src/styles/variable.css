@@ -1,0 +1,17 @@
+:root {
+  /* ------------------------------ Colors ------------------------------ */
+  --color-base-white: #ffffff;
+  --color-base-black: #000000;
+  --color-dark-lava: #2F3843;
+  --color-philippine-gray: #928E89;
+  --color-wenge: #625B51;
+  --color-raisin-black: #2A2319;
+  --color-sonic-silver: #b2a99d;
+
+  /* ------------------------------ Colors ------------------------------ */
+  --font-family: Spotify-Font;
+
+  --font-weight-base-regular: 400;
+  --font-weight-base-medium: 500;
+  --font-weight-base-bold: 700;
+}

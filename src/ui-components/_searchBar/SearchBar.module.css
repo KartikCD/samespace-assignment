@@ -1,0 +1,33 @@
+.inputRoot {
+  position: relative;
+  width: 100%; 
+}
+
+.inputRoot input {
+  padding: 0.8rem 4rem 0.8rem 0.8rem;
+  width: 100%;
+  font-size: 1.4rem;
+  border: none;
+  background-color: var(--color-wenge);
+  color: var(--color-base-white);
+  border-radius: 0.4rem;
+}
+
+.inputRoot input::placeholder {
+  color: var(--color-sonic-silver);
+  font-weight: lighter;
+  font-style: normal;  
+}
+
+.inputRoot input:focus {
+  outline: none;
+}
+
+.inputIcon {
+  position: absolute;
+  top: 9px;
+  right: 10px;
+  height: 1.6rem;
+  width: 1.6rem;
+  color: var(--color-sonic-silver);
+}
